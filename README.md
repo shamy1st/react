@@ -10,11 +10,11 @@ React is a JavaScript library for building user interfaces, developed at faceboo
         sudo npm i -g create-react-app@1.5.2
 
 3. Download Visual Studio extension
-          * Simple React Snippets
-          * Prettier - Code formatter
+   * Simple React Snippets
+   * Prettier - Code formatter
 4. Enable formatting on save
-          * Visual Studio > Code > Preferences > Settings
-          * search for "format on save" and check the box.
+   * Visual Studio > Code > Preferences > Settings
+   * search for "format on save" and check the box.
 
 
 
