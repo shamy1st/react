@@ -15,8 +15,9 @@ React is a JavaScript library for building user interfaces, developed at faceboo
 4. Enable formatting on save
    * Visual Studio > Code > Preferences > Settings
    * search for "format on save" and check the box.
-
-
+5. Download "Ayu Mirage" color theme
+   * Visual Studio > Code > Preferences > Color Theme
+   * Choose "Ayu Mirage", if not found download "Ayu" theme.
 
 ## Ref
 * 
