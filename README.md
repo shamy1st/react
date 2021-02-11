@@ -27,6 +27,8 @@ React is a JavaScript library for building user interfaces, developed at faceboo
         cd react-app
         npm start
         
+        // will start on http://localhost:3000/
+        
 270 MB on disk
 ![](https://github.com/shamy1st/react/blob/main/images/zero-config.png)
 
